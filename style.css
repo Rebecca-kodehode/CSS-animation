@@ -1,0 +1,55 @@
+/* Add @keyframes and at least two or three steps (use variables as 0%, 50%, 100% */
+
+/* Hover affect on button */
+
+/* Text that fades in and does some kind of movement */
+
+/* Add transitions on the elements added in the html */
+
+/* Use transition to make effects: changing colors, size etc, when hovring or focused on said element */
+
+/* Add a zoom effect on the image when userr is hovering over it */
+
+/* Make the title skewed for a 3D effect */
+
+/* Try combining the tree things on one element */
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+header {
+    background-color: #504231;
+    color: silver;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100px;
+}
+
+main {
+    background-color: #c8a47b;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+footer {
+    background-color: #504231;
+    color: silver;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100px;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    padding: 30px;
+}
